@@ -1,5 +1,4 @@
 GlowScript 3.0 VPython
-# Programming-problem-
 
 #Cristian Navarro Problem Set 3 Programming Problem
 
